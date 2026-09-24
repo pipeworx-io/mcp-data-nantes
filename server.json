@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-nantes",
   "title": "Data Nantes",
   "description": "Nantes Métropole Open Data (data.nantesmetropole.fr) — OpenDataSoft MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/data-nantes",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-nantes",
